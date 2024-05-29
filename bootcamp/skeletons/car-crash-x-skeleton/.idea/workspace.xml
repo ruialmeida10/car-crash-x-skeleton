@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2060705e-e0be-4e1e-a0e3-6034d8e46a4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../implementations/season-1/ep-07-polymorphism/ep-07-polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../live-codings/revisions/vimtage-hotal/src/vimtage-hotal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton 2/car-crash-skeleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton 2/car-crash-skeleton1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton 3/car-crash-skeleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton 3/car-crash-skeleton1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton 3/src/io/codeforall/bootcamp/cars/Towtruck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/libraries/CarCrash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/car-crash-skeleton1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/TestGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Fiat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Mustang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live-codings/sin-city-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../live-codings/sin-city-calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/car-crash-skeleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/car-crash-skeleton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../live-codings/sin-city-calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-crash-x-skeleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/car-crash-x-skeleton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/CarCrashX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/CollisionDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/Car$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/CarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/CarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/Fiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/car/Mustang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/lanterna/LanternaColorMapper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/lanterna/LanternaColorMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/lanterna/LanternaGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/lanterna/LanternaGridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxColorMapper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxColorMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/Grid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridDirection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridDirection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/GridType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/position/AbstractGridPosition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/position/AbstractGridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/grid/position/GridPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/test/LanternaGridTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/test/SimpleGfxGridTest$TestResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/car-crash-x-skeleton/io/codeforall/bootcamp/test/SimpleGfxGridTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/codeforall/bootcamp/CarCrashX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/codeforall/bootcamp/CarCrashX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGridPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/codeforall/bootcamp/gfx/simplegfx/SimpleGfxGridPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/codeforall/bootcamp/test/SimpleGfxGridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/codeforall/bootcamp/test/SimpleGfxGridTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2h8zRIiVDflaLytSTAfTnO2qjNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/codecadet/Documents/ruialmeida/99-bootcamp/bootcamp/skeletons/car-crash-x-skeleton",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CarCrashX">
+    <configuration name="CarCrashX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.codeforall.bootcamp.CarCrashX" />
+      <module name="car-crash-x-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.codeforall.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGfxGridTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.codeforall.bootcamp.test.SimpleGfxGridTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.codeforall.bootcamp.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGfxGridTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.codeforall.bootcamp.test.SimpleGfxGridTest" />
+      <module name="car-crash-x-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.codeforall.bootcamp.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarCrashX" />
+        <item itemvalue="Application.SimpleGfxGridTest" />
+        <item itemvalue="Application.SimpleGfxGridTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2060705e-e0be-4e1e-a0e3-6034d8e46a4f" name="Changes" comment="" />
+      <created>1716990482380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716990482380</updated>
+      <workItem from="1716990483833" duration="1165000" />
+      <workItem from="1716991723319" duration="13078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

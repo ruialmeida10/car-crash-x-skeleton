@@ -238,7 +238,6 @@ public class SimpleGfxGridTest {
                 if (pos.getRow() >= ROW_NUM) {
                     return new TestResult(false, "position coordinates are wrong after moving down");
                 }
-
                 if (gridPos.getX() != pos.getCol() * grid.getCellSize() + SimpleGfxGrid.PADDING
                         || gridPos.getY() != pos.getRow() * grid.getCellSize() + SimpleGfxGrid.PADDING) {
                     return new TestResult(false, "shape position coordinates are wrong after moving down");

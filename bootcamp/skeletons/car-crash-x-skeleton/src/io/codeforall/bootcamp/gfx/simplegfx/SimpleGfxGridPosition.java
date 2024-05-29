@@ -4,6 +4,7 @@ import io.codeforall.bootcamp.grid.GridDirection;
 import io.codeforall.bootcamp.grid.position.AbstractGridPosition;
 import io.codeforall.bootcamp.grid.position.GridPosition;
 import io.codeforall.bootcamp.grid.GridColor;
+import org.academiadecodigo.simplegraphics.graphics.Color;
 import org.academiadecodigo.simplegraphics.graphics.Rectangle;
 
 /**
@@ -20,8 +21,9 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     public SimpleGfxGridPosition(SimpleGfxGrid grid){
         super((int) (Math.random() * grid.getCols()), (int) (Math.random() * grid.getRows()), grid);
-
-        throw new UnsupportedOperationException();
+        rectangle = new Rectangle(getCol() * 10 + 10, getRow() * 10 + 10, 10,10);
+        rectangle.draw();
+        simpleGfxGrid = grid;
     }
 
     /**
@@ -32,8 +34,9 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     public SimpleGfxGridPosition(int col, int row, SimpleGfxGrid grid){
         super(col, row, grid);
-
-        throw new UnsupportedOperationException();
+        rectangle = new Rectangle(getCol() * 10 + 10, getRow() * 10 + 10, 10,10);
+        show();
+        simpleGfxGrid = grid;
     }
 
     /**
@@ -41,7 +44,8 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     @Override
     public void show() {
-        throw new UnsupportedOperationException();
+        rectangle.draw();
+        rectangle.fill();
     }
 
     /**
@@ -49,7 +53,7 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     @Override
     public void hide() {
-        throw new UnsupportedOperationException();
+        rectangle.delete();
     }
 
     /**
@@ -57,7 +61,32 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     @Override
     public void moveInDirection(GridDirection direction, int distance) {
-        throw new UnsupportedOperationException();
+        System.out.println(rectangle.getHeight()/10 + distance + " " + simpleGfxGrid.getRows());
+        switch (direction) {
+            case UP:
+                if (rectangle.getHeight()/10 - distance <= 1)
+                    break;
+                rectangle.translate(0,distance*10);
+                super.setPos(getCol(), getRow() - distance);
+                break;
+            case DOWN:
+                if (rectangle.getHeight()/10 + distance >= simpleGfxGrid.getRows())
+                    break;
+                rectangle.translate(0, distance*10);
+                super.setPos(getCol(), getRow() + distance);
+                break;
+            case LEFT:
+                if (rectangle.getWidth()/10 - distance <= 1)
+                    break;
+                rectangle.translate(distance*10,0);
+                super.setPos(getCol() - distance, getRow());
+                break;
+            case RIGHT:
+                if (rectangle.getWidth()/10 + distance >= getGrid().getCols())
+                    break;
+                rectangle.translate(distance*10,0);
+                super.setPos(getCol() + distance, getRow());
+        }
     }
 
     /**
@@ -65,6 +94,9 @@ public class SimpleGfxGridPosition extends AbstractGridPosition {
      */
     @Override
     public void setColor(GridColor color) {
-        throw new UnsupportedOperationException();
+        rectangle.setColor(SimpleGfxColorMapper.getColor(color));
+        super.setColor(color);
     }
+
+
 }
